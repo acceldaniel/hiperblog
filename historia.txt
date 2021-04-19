@@ -16,5 +16,9 @@ mañana seguira estudiando
 =======
 probando stash y cherry-pick
 
+<<<<<<< HEAD
+mas mas mas
+>>>>>>> 0a1b907 (mas)
+=======
 mas mas mas
 >>>>>>> 0a1b907 (mas)
