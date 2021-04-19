@@ -12,3 +12,9 @@ Master 2
 
 mañana seguira estudiando
 
+<<<<<<< HEAD
+=======
+probando stash y cherry-pick
+
+mas mas mas
+>>>>>>> 0a1b907 (mas)
